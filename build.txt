@@ -1,0 +1,4 @@
+displayName = Tanned Extreme
+author = Miyabi
+side = Client
+version = 0.1
